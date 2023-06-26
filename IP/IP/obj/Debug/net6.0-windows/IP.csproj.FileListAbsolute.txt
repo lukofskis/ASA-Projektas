@@ -1,0 +1,48 @@
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.csproj.AssemblyReference.cache
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.AssemblyInfoInputs.cache
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.AssemblyInfo.cs
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.csproj.CoreCompileInputs.cache
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\IP.exe
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\data.csv
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\IP.deps.json
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\IP.runtimeconfig.json
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\IP.dll
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\IP.pdb
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.dll
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\refint\IP.dll
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.pdb
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.genruntimeconfig.cache
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\ref\IP.dll
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\IP.exe
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\data.csv
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\IP.deps.json
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\IP.runtimeconfig.json
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\IP.dll
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0-windows\IP.pdb
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.csproj.AssemblyReference.cache
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.AssemblyInfoInputs.cache
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.AssemblyInfo.cs
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.csproj.CoreCompileInputs.cache
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.dll
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\refint\IP.dll
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.pdb
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\IP.genruntimeconfig.cache
+C:\Users\Kilnojamas Kompas\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0-windows\ref\IP.dll
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\bin\Debug\net6.0-windows\IP.exe
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\bin\Debug\net6.0-windows\data.csv
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\bin\Debug\net6.0-windows\IP.deps.json
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\bin\Debug\net6.0-windows\IP.runtimeconfig.json
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\bin\Debug\net6.0-windows\IP.dll
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\bin\Debug\net6.0-windows\IP.pdb
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\obj\Debug\net6.0-windows\IP.csproj.AssemblyReference.cache
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\obj\Debug\net6.0-windows\IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\obj\Debug\net6.0-windows\IP.AssemblyInfoInputs.cache
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\obj\Debug\net6.0-windows\IP.AssemblyInfo.cs
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\obj\Debug\net6.0-windows\IP.csproj.CoreCompileInputs.cache
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\obj\Debug\net6.0-windows\IP.dll
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\obj\Debug\net6.0-windows\refint\IP.dll
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\obj\Debug\net6.0-windows\IP.pdb
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\obj\Debug\net6.0-windows\IP.genruntimeconfig.cache
+C:\Users\basbo\Desktop\ASA3\Inzinerinis Projektas\IP\IP\obj\Debug\net6.0-windows\ref\IP.dll

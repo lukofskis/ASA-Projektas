@@ -1,0 +1,54 @@
+﻿ class GraphForm : Form
+    {
+        private List<Location> path;
+
+        public GraphForm(List<Location> path)
+        {
+            this.path = path;
+
+            // Set the size of the form
+            ClientSize = new Size(800, 600);
+
+            // Subscribe to the Paint event to draw the graph
+            Paint += GraphForm_Paint;
+        }
+
+        private void GraphForm_Paint(object sender, PaintEventArgs e)
+        {
+            // Create a Graphics object from the PaintEventArgs
+            Graphics g = e.Graphics;
+
+            // Set up the pen and font for drawing
+            using (Pen pen = new Pen(Color.Red, 2))
+            using (Font font = new Font("Arial", 10))
+            {
+                // Draw the path and calculate the total length
+                double totalLength = 0;
+                for (int i = 0; i < path.Count - 1; i++)
+                {
+                    Location start = path[i];
+                    Location end = path[i + 1];
+                    double distance = FindDistance(start, end);
+                    totalLength += distance;
+
+                    // Draw the line segment
+                    g.DrawLine(pen, (float)start.X, (float)start.Y, (float)end.X, (float)end.Y);
+
+                    // Draw the name on the vertex
+                    g.DrawString(start.Name, font, Brushes.Black, (float)start.X, (float)start.Y);
+
+                    // Calculate the midpoint of the line segment
+                    float midX = (float)((start.X + end.X) / 2);
+                    float midY = (float)((start.Y + end.Y) / 2);
+
+                    // Draw the length along the edge
+                    string lengthText = string.Format("{0:0.00}", distance);
+                    g.DrawString(lengthText, font, Brushes.Black, midX, midY);
+                }
+
+                // Draw the total length at the bottom of the graph
+                string totalLengthText = "Total Length: " + string.Format("{0:0.00}", totalLength);
+                g.DrawString(totalLengthText, font, Brushes.Black, 10, ClientSize.Height - 30);
+            }
+        }
+    }

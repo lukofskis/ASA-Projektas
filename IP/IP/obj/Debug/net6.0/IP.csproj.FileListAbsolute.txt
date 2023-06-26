@@ -1,0 +1,16 @@
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0\IP.exe
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0\IP.deps.json
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0\IP.runtimeconfig.json
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0\IP.dll
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0\IP.pdb
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0\IP.csproj.AssemblyReference.cache
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0\IP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0\IP.AssemblyInfoInputs.cache
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0\IP.AssemblyInfo.cs
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0\IP.csproj.CoreCompileInputs.cache
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0\IP.dll
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0\refint\IP.dll
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0\IP.pdb
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0\IP.genruntimeconfig.cache
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\obj\Debug\net6.0\ref\IP.dll
+C:\Users\dovyd\OneDrive - Kaunas University of Technology\ASA\IP ASA\IP\IP\bin\Debug\net6.0\data.csv
